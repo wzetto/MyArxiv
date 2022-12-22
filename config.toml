@@ -1,4 +1,4 @@
-site_title = "MyArxiv"
+site_title = "Arxiv channel"
 limit_days = 7
 cache_url = "https://wzetto.github.io/wz369.github.io/MyArxiv/cache.json"
 
