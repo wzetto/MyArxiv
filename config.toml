@@ -27,6 +27,11 @@ limit = 25
 category = "q-fin.CP"
 title = "Computational Finance"
 
+[[sources]]
+limit = 25
+category = "cs.LG"
+title = "Machine Learning"
+
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"
