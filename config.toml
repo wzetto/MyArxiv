@@ -8,17 +8,17 @@ category = "cond-mat.dis-nn"
 title = "Disordered Systems and Neural Networks"
 
 [[sources]]
-limit = 25
+limit = 50
 category = "cond-mat.mtrl-sci"
 title = "Materials Science"
 
 [[sources]]
-limit = 25
+limit = 50
 category = "physics.data-an"
 title = "Data Analysis, Statistics and Probability"
 
 [[sources]]
-limit = 25
+limit = 50
 category = "cs.RO"
 title = "Robotics"
 
@@ -28,7 +28,7 @@ category = "q-fin.CP"
 title = "Computational Finance"
 
 [[sources]]
-limit = 25
+limit = 50
 category = "cs.LG"
 title = "Machine Learning"
 
