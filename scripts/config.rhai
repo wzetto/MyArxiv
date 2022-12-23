@@ -4,7 +4,7 @@ let titles_method = ["Reinforcement learning", "Molecular dynamics", "Ab initio"
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Sergey Levine"];
 
-let conferences = [];
+let conferences = ["AAAI"];
 
 let start = conferences.shift();
 let conferences_rg = conferences.reduce(|sum, v| sum + "|" + v, start);
