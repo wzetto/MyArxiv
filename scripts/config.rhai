@@ -1,6 +1,7 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = [];
-let titles_method = ["Reinforcement learning", "Molecular dynamics", "Ab initio", "First-principles", "High entropy"];
+let titles_method = ["Reinforcement learning", "Molecular dynamics", "Ab initio", 
+                     "First-principles", "High entropy", "Stacking fault"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Sergey Levine"];
 
