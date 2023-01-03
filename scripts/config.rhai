@@ -1,11 +1,11 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = [];
 let titles_method = ["Reinforcement learning", "Molecular dynamics", "Ab initio", 
-                     "First-principles", "High entropy", "Stacking fault"];
+                     "First-principles", "High entropy", "Stacking fault", "Graph"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Sergey Levine"];
 
-let conferences = ["AAAI"];
+let conferences = ["AAAI", "ICML", "ICLR", "NeurIPS", "IJCAI", "AAMAS"];
 
 let start = conferences.shift();
 let conferences_rg = conferences.reduce(|sum, v| sum + "|" + v, start);
