@@ -19,8 +19,8 @@ title = "Statistical Mechanics"
 
 [[sources]]
 limit = 50
-category = "physics.data-an"
-title = "Data Analysis, Statistics and Probability"
+category = "stat.ME"
+title = "Statistical Methodology"
 
 [[sources]]
 limit = 50
@@ -34,8 +34,8 @@ title = "Computational Finance"
 
 [[sources]]
 limit = 50
-category = "cs.LG"
-title = "Machine Learning"
+category = "physics.app-ph"
+title = "Applied Physics"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
