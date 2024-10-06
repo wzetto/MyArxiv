@@ -1,9 +1,10 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = [];
 let titles_method = ["Reinforcement learning", "Molecular dynamics", "Ab initio", 
-                     "First-principles", "High entropy", "Stacking fault", "Graph"];
+                     "First-principles", "High entropy", "eigenstrain", "eigenstress",
+                     "micromechanics", "Peierls"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Sergey Levine", "Koretaka Yuge"];
+let authors_array = [];
 
 let conferences = ["AAAI", "ICML", "ICLR", "NeurIPS", "IJCAI", "AAMAS"];
 
