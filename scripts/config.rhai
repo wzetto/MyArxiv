@@ -2,7 +2,7 @@ let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = [];
 let titles_method = ["Reinforcement learning", "Molecular dynamics", "Ab initio", 
                      "First-principles", "High entropy", "eigenstrain", "eigenstress",
-                     "micromechanics", "Peierls"];
+                     "micromechanics", "Peierls", "phase field"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = [];
 
